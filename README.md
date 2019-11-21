@@ -32,13 +32,16 @@ Q2: What is the answer?
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
 Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
+* Bobby: I graduated from Miami University as a Software Engineer, but moved into a series of jobs where I worked as either an Infrastructure Engineer or, in the case of my last position, a DevOps Engineer. Unfortunately like all skills, when they aren't being actively used, they stagnate. I was being offered new positions and new fancy "Developer" titles, but at the end of the day, I couldn't help but feel as though I wasn't the true developer I wanted to be, and as each day went on-- my development skills were degrading. I enrolled in this program to help bolster those skills, and to bridge the gap between Academic programming, and Enterprise progamming.
 
 Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
+* Bobby: I'd really love to go to Europe-- preferably somewhere like *Dublin* or *London*
 
 Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
+* Bobby: Ringo, because I can't help but feel bad for the guy for all the crap the band gave him. But seriously, __all__ members are great; there is no favorite. As for songs, I'd say: _Let It Be_
 
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
-
+* Bobby: No pets currently, but my folks who live out of the country have our family Wiener dog. His name is Sammy, and by now I'd image the little guy is getting some gray hairs with his brown coat. 
 
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
